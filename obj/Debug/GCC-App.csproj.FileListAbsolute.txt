@@ -1,0 +1,13 @@
+C:\Users\Devin\Desktop\CSharpGCC\GCC-App\bin\Debug\GCC-App.exe.config
+C:\Users\Devin\Desktop\CSharpGCC\GCC-App\bin\Debug\GCC-App.exe
+C:\Users\Devin\Desktop\CSharpGCC\GCC-App\bin\Debug\GCC-App.pdb
+C:\Users\Devin\Desktop\CSharpGCC\GCC-App\obj\Debug\GCC-App.csprojResolveAssemblyReference.cache
+C:\Users\Devin\Desktop\CSharpGCC\GCC-App\obj\Debug\GCC_App.Properties.Resources.resources
+C:\Users\Devin\Desktop\CSharpGCC\GCC-App\obj\Debug\GCC-App.csproj.GenerateResource.Cache
+C:\Users\Devin\Desktop\CSharpGCC\GCC-App\obj\Debug\GCC-App.exe
+C:\Users\Devin\Desktop\CSharpGCC\GCC-App\obj\Debug\GCC-App.pdb
+C:\Users\Devin\Desktop\CSharpGCC\GCC-App\obj\Debug\GCC_App.pinForm.resources
+C:\Users\Devin\Desktop\CSharpGCC\GCC-App\obj\Debug\GCC_App.GymnastMonitor.resources
+C:\Users\Devin\Desktop\CSharpGCC\GCC-App\bin\Debug\System.Data.SQLite.dll
+C:\Users\Devin\Desktop\CSharpGCC\GCC-App\bin\Debug\System.Data.SQLite.xml
+C:\Users\Devin\Desktop\CSharpGCC\GCC-App\obj\Debug\GCC_App.AdminForm.resources
